@@ -1,6 +1,6 @@
 [submodule "modules/waf"]
 	path = modules/waf
-	url = https://github.com/ArduPilot/waf.git
+	url = https://github.com/lamGremsy/waf/
 [submodule "modules/gbenchmark"]
 	path = modules/gbenchmark
 	url = https://github.com/google/benchmark.git
